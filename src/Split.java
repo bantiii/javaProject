@@ -10,7 +10,7 @@ public class Split {
 	String[] nameSplit =name.split("\\s");
 	for(int i=0; i<nameSplit.length;i++){
 		
-		//this is new bro
+		//this is new brow
 		System.out.println("the value of the name is then changed"+nameSplit[i]);
 	}
 	}
